@@ -1,0 +1,112 @@
+
++ mi nombre es _ 
+ - Es un placer conocerte, <star>.\n ¿Deseas acceder a nuestro menú de opciones?\n Sí / No
+ - <star>, encantado de conocerte.\n ¿Deseas acceder a nuestro menú de opciones?\n Sí / No
+ - Encantado de conocerte, <star>.\n ¿Deseas acceder a nuestro menú de opciones?\n Sí / No
+
+ + soy _
+
+ - Es un placer conocerte, <star>.\n ¿Deseas acceder a nuestro menú de opciones?\n Sí / No
+ - <star>, encantado de conocerte.\n ¿Deseas acceder a nuestro menú de opciones?\n Sí / No
+ - Encantado de conocerte, <star>.\n ¿Deseas acceder a nuestro menú de opciones?\n Sí / No
++ me llamo _
+ - Es un placer conocerte, <star>.\n ¿Deseas acceder a nuestro menú de opciones?\n Sí / No
+ - <star>, encantado de conocerte.\n ¿Deseas acceder a nuestro menú de opciones?\n Sí / No
+ - Encantado de conocerte, <star>.\n ¿Deseas acceder a nuestro menú de opciones?\n Sí / No
++ no
+- Entendido, estaré aquí para ayudarte cuando lo necesites. ¡Que tengas un lindo día! :)
++ si
+@ hola
+
++ hola 
+- Hola, soy tu asistente virtual del Centro de Salud Santa Rita. ¿En qué puedo ayudarte hoy? Puedes escoger la opción de deseas con el número correspondiente.\n
+^  1. Servicios ofrecidos.\n
+^  2. Horarios. \n
+^  3. Información general. \n
+^  4. Emergencias. \n
+^  5. Avisos.\n
+^  6. Agendar medicamentos\n
+^  16. Sugerencias y reclamos
+
++ 1
+- ¿En qué puedo ayudarte específicamente?\n
+  ^ 7. Agendar cita\n
+  ^ 8. Cancelar cita\n
+  ^ 0. Atrás\n
++ 7
+- Por favor escribe tu número de documento, tu nombre, tu teléfono y el motivo por la cita separados por comas respectivamente.\nLuego de escribir los datos, se te dirigirá nuevamente al memú principal. ¡Muchas gracias por usar el chatbot del centro de salud de Salud de Santa Rita!
+
+
++ 8
+- Por favor comunicarse a este número lo antes posible. 314 5332981\n
+^   0. Atrás
++ 0 
+@ hola
+
+
++ 2
+- En el Centro de Salud Santa Rita, nuestros horarios son:?\n
+  ^ Lunes: 07:00 am a 12:00 pm\n
+  ^ Martes: 07:00 am a 12:00 pm\n
+  ^ Miércoles: 07:00 am a 12:00 pm\n
+  ^ Jueves: 07:00 am a 12:00 pm\n
+  ^ Viernes: 07:00 am a 12:00 pm\n
+  ^ Sábado: Cerrado\n
+  ^ Domingo: Cerrado\n
+  ^ 0. Atrás\n
+
++ 3
+- El Centro de Salud de Santa Rita ofrece servicios esenciales de atención primaria y preventiva, incluyendo chequeos de salud, vacunaciones y tratamiento de enfermedades comunes. Con un equipo de médicos y enfermeras, también brinda servicios de salud materno-infantil. Su ubicación estratégica facilita el acceso a la atención médica, desempeñando un papel clave en la salud comunitaria y la prevención de enfermedades.\n
+^ 0. Atrás\n
++ 4
+- En caso de emergencia, es crucial mantener la calma. Algunas emergencias comunes y las posibles soluciones incluyen:\n
+  ^ 9. Paro cardíaco o dificultad para respirar:\n
+  ^ 10. Heridas graves o sangrado profuso:\n
+  ^ 11. Quemaduras graves:\n
+  ^ 12. Reacciones alérgicas severas (anafilaxia):\n
+  ^ 13. Fracturas:\n
+  ^ 14. Convulsiones:\n
+  ^ 15. Intoxicación o envenenamiento:\n
+  ^ 0. Atrás\n
++ 5
+- Algunos de nuestros últimos avisos incluyen:\n
+  ^  Jornada de prevención contra la gripe el 10 de noviembre.\n
+  ^  Nuevos horarios de atención durante las fiestas.\n
+  ^  Entrega de medicamentos el día 15 de Noviembre.\n
+  ^ 0. Atrás
++ 6
+- Por favor a continuación escribe el nombre del medicamento que solicites y estate atento de la opción de avisos para que te enteres cuando tu medicamento esté disponible o visita frecuentemente nuestro centro de salud.
+
+
++ 9 
+- Llame a servicios de emergencia (911) y comience la RCP si está capacitado. Si hay un desfibrilador externo automático (DEA) disponible, úselo según las instrucciones.\n
+^   0. Atrás
+
++ 10 
+-  Aplique presión directa con un paño limpio y llame a servicios de emergencia. Si la hemorragia no se detiene, eleve la extremidad y aplique presión adicional.\n
+^   0. Atrás
+
++ 11
+-  Enfríe con agua corriente durante al menos 10 minutos y busque atención médica de inmediato. No use hielo en quemaduras graves.\n
+^   0. Atrás
+
++ 12 
+-  Llame a servicios de emergencia y administre una epinefrina autoinyectable si está disponible. Busque atención médica de inmediato.\n
+^   0. Atrás
+
++ 13 
+-  Inmovilice la zona afectada, aplique hielo y llame a servicios de emergencia.\n
+^   0. Atrás
+
++ 14 
+-  Coloque a la persona en el suelo, retire objetos cercanos y coloque a la persona de lado. No ponga nada en la boca. Llame a servicios de emergencia.\n
+^   0. Atrás
+
++ 15 
+-  Llame a un centro de toxicología o servicios de emergencia. Si es seguro hacerlo, proporcione información sobre la sustancia ingerida.\n
+^   0. Atrás
++ 16 
+- Agradecemos tus sugerencias y reclamos. A continuación, escribe tu sugerencia o reclamo sobre nuestro servicio.\nLuego de escribir se te dirigirá nuevamente al menú principal. ¡Muchas gracias por usar el chatbot del centro de salud de Santa Rita!
+
++ * 
+@ hola
